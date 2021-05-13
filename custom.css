@@ -1,0 +1,14 @@
+.btn btn-lg{
+	background-color: blue;
+}
+
+/* style for display */
+.display{
+	text-align: right;
+}
+
+.calculator{
+	display: block;
+	margin: 10px auto;
+	background-color: blue;
+}
